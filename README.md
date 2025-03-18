@@ -65,3 +65,4 @@ This project also explores how this local implementation can be scaled using AWS
 - Scale to AWS Bedrock for real-world deployment.
 - Add evaluation metrics (accuracy, latency).
 - Expand supported document types (e.g., DOCX, JSON).
+- Enhance the RAG pipeline by integrating `LangChain` for modular and advanced retireval workflows.           
